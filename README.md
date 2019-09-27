@@ -1,2 +1,2 @@
 # awesome-qrcode
-Generate Awesome QR Code in python, support text, static picture and GIF !!!
+二维码生成工具，可以生成静态二维码、图像二维码和动画二维码。
